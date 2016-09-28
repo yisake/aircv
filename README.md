@@ -43,11 +43,9 @@ maxcnt是可选参数，限制最多匹配的数量。
 
 查找多个相同的图片，如在图形
 
-![template1](testdata/2s.png)
 
 中查找
 
-![template2](testdata/2t.png)
 
     print ac.find_all_template(imsrc, imsch)
 
@@ -57,7 +55,6 @@ maxcnt是可选参数，限制最多匹配的数量。
 
 效果
 
-![2res](testdata/2res.png)
 
 ## 开发规范
 [开发规范](docs/DEVELOPMENT.md)
