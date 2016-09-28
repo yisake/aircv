@@ -1,5 +1,4 @@
 # aircv
-[![Build Status](https://travis-ci.org/NetEase/aircv.svg?branch=master)](https://travis-ci.org/NetEase/aircv)
 
 Find object position based on python-opencv2 *for python2.7+*
 
